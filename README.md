@@ -2,9 +2,8 @@
 
 This repository showcases a collection of projects I have completed to practice and demonstrate my skills in **data analysis, SQL, Python, and data visualization**. Each project focuses on different aspects of the data workflow: cleaning, exploration, analysis, and visualization.  
 
----
 
-## 🔹 Projects Included
+## Projects Included
 
 ### 1. Data Cleaning with SQL  
 - Applied advanced SQL queries to clean and prepare raw datasets.  
@@ -22,7 +21,6 @@ This repository showcases a collection of projects I have completed to practice 
 - Built an interactive Tableau dashboard analyzing **COVID-19 infections and deaths**.  
 - Showcased key trends, comparisons, and geographical breakdowns with clear visuals for decision-making.  
 
----
 
 ## 🚀 Tools & Technologies
 - **SQL (MySQL / SQL Server)**  
@@ -30,7 +28,4 @@ This repository showcases a collection of projects I have completed to practice 
 - **Tableau**  
 - **Excel (for preprocessing & validation)**  
 
----
 
-## 📌 Purpose
-This portfolio is intended to demonstrate my ability to work with real-world datasets, applying different tools and techniques to clean, analyze, and visualize data in a meaningful way.  
